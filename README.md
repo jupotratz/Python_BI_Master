@@ -10,7 +10,10 @@ Este repositório tem o objetivo de apresentar os materiais e recursos necessár
  - Júlia Potratz
 	 - :email: prof.julia@ica.ele.puc-rio.br
 	 - [Linkedin](https://www.linkedin.com/in/julia-potratz)
-
+ - Manoela Koehler
+     - prof.manoela@ica.ele.puc-rio.br
+     - [Linkedin](https://www.linkedin.com/in/manoelakohler/)
+     
 
 ## Ementa 
 
